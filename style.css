@@ -1,0 +1,178 @@
+table {
+  width: 100%;
+  text-align: center;
+
+}
+
+.butn {
+  width: 100%;
+  background-color: #0A801F;
+  color: white;
+  font-size: large;
+}
+
+.butn2 {
+  width: 140px;
+  height: 35px;
+  border-radius: 6px;
+  background-color: #e6e6e6;
+  color: #000000;
+  font-size: small;
+}
+
+.butn:hover {
+  background-color: #09661a;
+  color: white;
+
+}
+
+.butn2:hover {
+  background-color: #a5a5a5;
+  color: #000000;
+}
+.head_link a{
+  color: #231f20;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+hr{
+    border-top: 2px solid #8f8f8f;
+    margin-top: 30px;
+}
+td {
+  height: 50px;
+  border: 1px solid rgb(217, 217, 217);
+  background-color: #ffff;
+}
+.redbg{
+  background-image: url(assets/menu_bg.jpeg); background-size: auto 100%; 
+}
+.redbg a{
+  color:#ffffff;
+}
+.tab-content h3{
+  font-size: 16px;
+  font-weight: bold;
+  padding-left: 10px
+
+}
+.tab-content p{
+  font-size: 14px;
+  padding-left: 10px;
+  font-weight: 300;
+
+}
+.mainb a{
+  font-size: 17px;
+  text-decoration: none; 
+  font-weight: 500;
+  padding: 20px;
+}
+.mainb a:hover{
+  color: #454545;
+}
+.mainb .nav .nav-link{
+  color: #454545;
+  background-color: #D9DDE3;
+}
+.mainb .nav .active{
+  background-color: white;
+  color: #da291c;
+}
+tr {
+
+  background-color: #D6EEEE;
+}
+
+a {
+
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
+.card {
+  cursor: pointer;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
+}
+.card:hover {
+  box-shadow: 1px 3px 3px rgba(0, 0, 0, 0.4), -1px 0px 3px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease-in-out;
+
+}
+.mainb{
+
+  box-shadow: 6px 18px 15px rgba(0, 0, 0, 0.2), -5px 0px 15px rgba(0, 0, 0, 0.2);
+}
+.mainb .card{
+
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.2);
+}
+.mainb .card:hover{
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: all 0.2s ease-in-out;
+  
+}
+
+footer {
+  background-color: #000000;
+  color: aliceblue;
+  padding-top: 40px;
+  font-size: 14px;
+}
+
+.fa {
+  font-size: 20px;
+  padding-inline: 12px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 100%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+  color: #c8c8c8;
+}
+
+.fa-facebook {
+  background: black;
+  color: white;
+}
+
+.fa-twitter {
+  background: black;
+  color: white;
+}
+
+.fa-youtube-play {
+  background: black;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: black;
+  color: white;
+}
+
+
+.download-img {
+  height: 45px;
+  width: 140px;
+  margin: 5px;
+}
+
+.download-link {
+  text-align: center;
+}
+.f a{
+  color:#ffff;
+}
+.cbody h6{
+  font-size: 17px;
+}
+.cbody p{
+  font-size: 15px;
+  color: #231f20;
+  font-weight: 300;
+}
